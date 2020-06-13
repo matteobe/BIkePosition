@@ -13,7 +13,7 @@ The script allows the user to:
 
 The interface looks as follows:
 
-![GUI][https://github.com/matteobe/BikePosition/blob/master/docs/interface.png?raw=true]
+![GUI](https://github.com/matteobe/BikePosition/blob/master/docs/interface.png?raw=true)
 
 The two sliders on the sides of the image, serve as controllers to move the selected
 point to a desired location, so as to measure desired angles.
