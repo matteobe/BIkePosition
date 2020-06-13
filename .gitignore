@@ -1,0 +1,12 @@
+# Ignore Jupyter Notebook artifacts
+.ipynb_checkpoints/
+
+# Ignore video, archives and frames
+Videos/
+Frames/
+Archive/
+
+# Ignore excel files
+*.xlsm
+*.xlsx
+
