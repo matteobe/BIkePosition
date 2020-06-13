@@ -13,7 +13,7 @@ The script allows the user to:
 
 The interface looks as follows:
 
-![GUI][docs/interface.png]
+![GUI][https://github.com/matteobe/BikePosition/blob/master/docs/interface.png?raw=true]
 
 The two sliders on the sides of the image, serve as controllers to move the selected
 point to a desired location, so as to measure desired angles.
@@ -32,6 +32,6 @@ The tool is stored at the following link: https://github.com/matteobe/BikePositi
 
 ## License
 
-The licensing of this project is regulated as detailed in the attached MIT License.
+The licensing of this project is regulated as detailed in the attached GPL 3.0 license.
 
 Enjoy!
